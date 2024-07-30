@@ -5,6 +5,10 @@
 I'm 20-year-old undergraduate student in Zhejiang university, majoring Electronic Science and Technology.  
 I'm currently working on some cool stuffs.
 
+## Project
+- Auto Obstracle car
+- Women Emergency GPs
+
 -------------
 
 ## How to reach me
